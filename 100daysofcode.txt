@@ -1,0 +1,4 @@
+- hello, iam a freelance tutor 
+- i want to consistently learn programming at least one hour a day
+- especially in c++ and web development
+- i wish i get better by following this 100DaysofCode program
